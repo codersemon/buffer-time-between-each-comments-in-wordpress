@@ -1,0 +1,1 @@
+# Add buffer time between each comment in wordpress for any post types to protect spamming
